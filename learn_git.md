@@ -6,10 +6,23 @@ GIT相关指令
 
 2.git 基本命令
     git init
+
     git status
+    
     git add
+    
     git commit
+    
     git restore --staged xxx
+        # git restore --staged readme.md
+    
     git log
-    git checkout
+    
+    git checkout xxxxxxx/master 
+        # git checkout e8befcd
+    
+    git diff 'xxxxxxx' 'filename'
+        # git diff e8befcd .\readme.md
+
+    
     
