@@ -24,5 +24,5 @@ GIT相关指令
     git diff 'xxxxxxx' 'filename'
         # git diff e8befcd .\readme.md
 
-    
+    git clone xxxxxxx
     
