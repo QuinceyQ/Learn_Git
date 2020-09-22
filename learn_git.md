@@ -27,14 +27,17 @@ GIT相关指令
     git diff 'xxxxxxx' 'filename'
         # git diff e8befcd .\readme.md
 
+3.git 远程遥控
     git clone xxxxxxx
 
     git push/pull
 
+4.git 标签与分支
     git tag xxx
         # git tag v1.0
         # git tag v0.9 ebd67cf
 
-    
+    git tag -d tag_name
+        # git tag -d v1.0
 
-
+    git branch xxx
