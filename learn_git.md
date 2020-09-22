@@ -27,6 +27,8 @@ GIT相关指令
 
     git clone xxxxxxx
 
+    git push/pull
+
 
     
     
