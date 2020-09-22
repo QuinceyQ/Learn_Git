@@ -12,6 +12,7 @@ GIT相关指令
     git add
     
     git commit
+        git commit -a -m "description"
     
     git restore --staged xxx
         # git restore --staged readme.md
@@ -25,4 +26,7 @@ GIT相关指令
         # git diff e8befcd .\readme.md
 
     git clone xxxxxxx
+
+
+    
     
