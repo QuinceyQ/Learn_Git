@@ -21,7 +21,9 @@ GIT相关指令
     
     git checkout xxxxxxx/master 
         # git checkout e8befcd
-    
+        # git checkout "tag"/v1.0 
+
+
     git diff 'xxxxxxx' 'filename'
         # git diff e8befcd .\readme.md
 
@@ -29,6 +31,10 @@ GIT相关指令
 
     git push/pull
 
+    git tag xxx
+        # git tag v1.0
+        # git tag v0.9 ebd67cf
 
     
-    
+
+
