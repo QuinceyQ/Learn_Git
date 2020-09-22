@@ -32,6 +32,12 @@ GIT相关指令
 
 3.git 远程遥控
     
+    #Github新建repository自动生成：
+    git remote add origin xxxxxx(URL)
+    git branch -M master
+    git push -u origin master 
+    
+
     git clone xxxxxxx
 
     git push/pull
