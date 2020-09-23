@@ -52,3 +52,4 @@ GIT相关指令
         # git tag -d v1.0
 
     git branch xxx
+        git branch bug_fix_1.0
